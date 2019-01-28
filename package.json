@@ -1,0 +1,13 @@
+{
+  "name": "vue-mastery-socks",
+  "version": "1.0.0",
+  "author": "Yuri Dogandjiev <yuri.dogandjiev@live.com> (https://twitter.com/ydogandjiev)",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.14.0",
+    "serve-static": "^1.11.1"
+  }
+}
